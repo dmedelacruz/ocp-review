@@ -1,6 +1,6 @@
 package chapter1;
 
-public class TextBlocks {
+public class TextBlocks1 {
 
     private int numForks;
 
